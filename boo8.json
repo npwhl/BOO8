@@ -1,0 +1,10 @@
+{
+	"id": "boo8",
+	"name": "BOO8",
+	"display_name": "BOO8",
+	"author": ["npwhl"],
+	"description": "Changes 8 ball probability to 1 in 2 :3",
+	"prefix": "8-",
+	"main_file": "boo8.lua",
+	"priority": -20
+}
